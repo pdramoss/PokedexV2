@@ -1,0 +1,8 @@
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+base_url = pokeapi.co/api/v2/
+base_image_url = raw.githubusercontent.com/PokeAPI/sprites/master/sprites/
+log_enabled = true
